@@ -8,9 +8,10 @@ To analyze a realistic phishing email and identify red flags such as fake sender
 
 ## Files Included
 
-- `phishing_analysis_report.md` – Detailed report with phishing traits, header analysis, and takeaways.
-- `/screenshots/mx_toolbox_analysis.png` – Screenshot of MxToolbox header authentication check.
-
+- `phishing_analysis_report.md` – Full report with technical analysis
+- `/screenshots/Picture1.png` – SPF/DKIM/DMARC failure
+- `/screenshots/Picture2.png` – Header structure
+- `/screenshots/Picture3.png` – Full email header trace
 
 ## Tools Used
 
