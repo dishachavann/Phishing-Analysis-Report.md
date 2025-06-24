@@ -39,14 +39,17 @@ Below is a summary of what MxToolbox revealed:
 - **From:** `security@appleid-verify.com` (non-Apple domain)
 - **Received From IP:** `203.0.113.55` – unrelated to Apple infrastructure
 
-- 🖼️ Header Authentication Screenshot:  
-![SPF & DKIM Analysis](./screenshots/Picture1.png)
+### 📷 Screenshots from MxToolbox
 
-🖼️ Header Fields Screenshot:  
-![Header Details](./screenshots/Picture2.png)
+1. SPF, DKIM, DMARC Check  
+![SPF Screenshot](./screenshots/Picture1.png)
 
-🖼️ Raw Received Header Screenshot:  
-![Full Header Trace](./screenshots/Picture3.png)
+2. Header Field Overview  
+![Header Screenshot](./screenshots/Picture2.png)
+
+3. Received Header Trace  
+![Header Trace Screenshot](./screenshots/Picture3.png)
+
 
 
 ## 4.Conclusion
